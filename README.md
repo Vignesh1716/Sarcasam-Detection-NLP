@@ -11,4 +11,4 @@ Each record consists of three attributes:
 - article_link: link to the original news article. Useful in collecting supplementary data 
 Reference https://github.com/rishabhmisra/News-Headlines-Dataset-For-Sarcasm-Detection 
 
-Skills: NLP, GloVe, Classification
+Skills: NLP, GloVe, Classification, LSTM
